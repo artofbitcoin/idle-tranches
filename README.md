@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours documentaire en français présente les tranches AA/BB, IdleCDO, les stratégies de rendement, la tarification, les récompenses et les mécanismes d’urgence. Voir [docs/fr/](docs/fr/) pour le sommaire.
+
 # Idle Perpetual Yield Tranches
 
 Official doc: https://docs.idle.finance/developers/perpetual-yield-tranches
